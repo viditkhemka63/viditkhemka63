@@ -23,7 +23,7 @@
 
 
 ### Language and Tools:
-<img align="left" width="22px" src="https://github.com/viditkhemka63/viditkhemka63/icons/tf.png"/>
-<img align="left" width="22px" src="https://github.com/viditkhemka63/viditkhemka63/icons/pytorch.png"/>
-<img align="left" width="22px" src="https://github.com/viditkhemka63/viditkhemka63/icons/vs_code.png"/>
+<img align="left" width="22px" src="https://github.com/viditkhemka63/viditkhemka63/blob/master/icons/tf.png"/>
+<img align="left" width="22px" src="https://github.com/viditkhemka63/viditkhemka63/blob/master/icons/pytorch.png"/>
+<img align="left" width="22px" src="https://github.com/viditkhemka63/viditkhemka63/blob/master/icons/vs_code.png"/>
 
