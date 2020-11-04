@@ -19,6 +19,11 @@
     <img align="left" width="22px" src="https://camo.githubusercontent.com/c121b7ba0c8d119a6032e693fc28057b2f1160d0/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e342e302f69636f6e732f6b6167676c652e737667"/>
 </a>
 
-<!-- - 📫 How to reach me:  -->
+<br />
 
+
+### Language and Tools:
+<img align="left" width="22px" src="https://github.com/viditkhemka63/viditkhemka63/icons/tf.png"/>
+<img align="left" width="22px" src="https://github.com/viditkhemka63/viditkhemka63/icons/pytorch.png"/>
+<img align="left" width="22px" src="https://github.com/viditkhemka63/viditkhemka63/icons/vs_code.png"/>
 
