@@ -1,10 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Vidit 👋
+**#TechEnthusiast, #Machinelearning, #WebTechnologies**
 
+- 🔭 I’m currently working on a [Machine learning project]!
+- 🌱 I’m currently learning React
+- 👯  I’m looking to collaborate on machine learning and natural language projects.
+- 💬 Ask me about machine learning, deep learning, NLP.
 
-**Machine learning Developer at Socio Stuff #TechEnthusiast, #Machinelearning, #WebTechnologies**
+### Connect with me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 
 - 📫 How to reach me: 
 
