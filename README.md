@@ -35,7 +35,6 @@
 
 ### 📊 GitHub Stats  
 ![Vidit's GitHub stats](https://github-readme-stats.vercel.app/api?username=viditkhemka63&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=viditkhemka63&layout=compact&theme=radical)  
 
 ---
 
