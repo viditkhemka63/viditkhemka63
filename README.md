@@ -39,7 +39,6 @@ With strong expertise in **Frontend (Angular, React)** and **Backend (Node.js, P
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)  
 ![Rasa](https://img.shields.io/badge/Rasa-5A17EE?style=flat&logo=rasa&logoColor=white)  
-![Dialogflow](https://img.shields.io/badge/Dialogflow-FF9800?style=flat&logo=dialogflow&logoColor=white)  
 
 #### 🗄️ Databases  
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)  
@@ -69,14 +68,6 @@ With strong expertise in **Frontend (Angular, React)** and **Backend (Node.js, P
 </a>  
 
 <br/><br/>  
-
----
-
-### 📊 GitHub Stats & Achievements  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=viditkhemka63&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=viditkhemka63&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=viditkhemka63&theme=radical)  
-![Trophies](https://github-profile-trophy.vercel.app/?username=viditkhemka63&theme=radical&margin-w=15)  
 
 ---
 
