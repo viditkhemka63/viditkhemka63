@@ -1,29 +1,42 @@
-### Hi there, I'm Vidit 👋
-**#TechEnthusiast, #Machinelearning, #WebTechnologies**
+# Hi there, I'm Vidit 👋  
+**Full Stack Developer | AI Enthusiast | Problem Solver**  
 
-- 🔭 I’m currently working on a Machine learning project
-- 🌱 I’m currently learning React
-- 👯  I’m looking to collaborate on machine learning and natural language projects.
-- 💬 Ask me about machine learning, deep learning, NLP.
+- 🔭 Currently working on **AI-powered web applications**  
+- 🌱 Exploring **cutting-edge AI frameworks & cloud-native architectures**  
+- 👯 Open to collaborate on **Full Stack projects, Chatbots, and NLP/ML applications**  
+- 💬 Ask me about **Angular, React, Node.js, Python, Chatbots, NLP, and Machine Learning**  
+- ⚡ Passionate about **building scalable applications and intelligent systems**  
 
-### Connect with me
+---
+
+### 🛠️ Tech Stack  
+**Frontend:** Angular, React, JavaScript (ES6+), TypeScript, HTML5, CSS3, Tailwind, Bootstrap  
+**Backend:** Node.js, Express.js, REST APIs, GraphQL  
+**AI/ML:** Python, TensorFlow, PyTorch, NLP, Chatbot Frameworks (Rasa, Dialogflow)  
+**Databases:** MySQL, MongoDB, PostgreSQL, Firebase  
+**Tools & Platforms:** Git, GitHub, Docker, Kubernetes, VS Code, AWS, GCP  
+
+---
+
+### 🌐 Connect with me  
 <a href="https://twitter.com/vidit_khemka">
-    <img align="left" width="22px" src="https://camo.githubusercontent.com/eacc870029bca30353239d9d629076ba4c18de75/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f747769747465722e737667"/>
+    <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg"/>
 </a>
-
 <a href="https://www.linkedin.com/in/vidit-khemka-486061143/">
-    <img align="left" width="22px" src="https://camo.githubusercontent.com/b65faae8871ebbdb99790f2644ea7f3c89800b0c/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f6c696e6b6564696e2e737667"/>
+    <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
 </a>
-
 <a href="https://www.kaggle.com/viditkhemka">
-    <img align="left" width="22px" src="https://camo.githubusercontent.com/c121b7ba0c8d119a6032e693fc28057b2f1160d0/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e342e302f69636f6e732f6b6167676c652e737667"/>
-</a>
+    <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg"/>
+</a>  
 
-<br />
+<br/><br/>  
 
+---
 
-### Language and Tools:
-<img align="left" width="22px" src="https://github.com/viditkhemka63/viditkhemka63/blob/master/icons/tf.png"/>
-<img align="left" width="22px" src="https://github.com/viditkhemka63/viditkhemka63/blob/master/icons/pytorch.png"/>
-<img align="left" width="22px" src="https://github.com/viditkhemka63/viditkhemka63/blob/master/icons/vs_code.png"/>
+### 📊 GitHub Stats  
+![Vidit's GitHub stats](https://github-readme-stats.vercel.app/api?username=viditkhemka63&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=viditkhemka63&layout=compact&theme=radical)  
 
+---
+
+⚡ **"Code + AI = Smarter Future"**  
